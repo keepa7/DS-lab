@@ -1,4 +1,4 @@
-# DS-lab q1
+ds lab 3q1
 #include <iostream>
 #include <vector>
 using  namespace std;
